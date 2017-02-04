@@ -1,3 +1,6 @@
 cow
 lamb
 horse
+dolphin
+whale
+seahorse
