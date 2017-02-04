@@ -1,0 +1,9 @@
+cow
+lamb
+horse
+dolphin
+whale
+seahorse
+tiger
+lion
+bear
