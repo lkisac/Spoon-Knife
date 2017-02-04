@@ -1,9 +1,14 @@
-cow
-lamb
-horse
-dolphin
-whale
-seahorse
-tiger
-lion
-bear
+<!doctype html>
+<title>Learning about gh-pages</title>
+<body>
+<ul>
+    <li>cow</li>
+    <li>lamb</li>
+    <li>horse</li>
+    <li>dolphin</li>
+    <li>whale</li>
+    <li>seahorse</li>
+    <li>tiger</li>
+    <li>lion</li>
+    <li>bear</li>
+</ul>
